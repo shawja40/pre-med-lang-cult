@@ -1,0 +1,814 @@
+{
+    "1000": {
+        "id": 1000,
+        "question": "Abrasion",
+        "answer": "A minor superficial scrape of the skin. For example: The child had an abrasion on his knee after falling off his bike.",
+        "img_src": ""
+    },
+    
+    "1001": {
+        "id": 1001,
+        "question": "Abscess",
+        "answer": "A localized collection of pus in the tissue. For example: a dental abscess is a collection of pus in the tooth or gums.",
+        "img_src": ""
+    },
+
+    "1002": {
+        "id": 1002,
+        "question": "Acute",
+        "answer": "A short-term illness or condition. Also means new, recent, sudden or urgent. For example: acute appendicitis is a sudden inflammation of the appendix.",
+        "img_src": ""
+    },
+
+    "1003": {
+        "id": 1003,
+        "question": "Ambulatory",
+        "answer": "A person who can walk and move around without assistance. For example: an ambulatory patient is one who can get out of bed and walk around.",
+        "img_src": ""
+    },
+    
+    "1004": {
+        "id": 1004,
+        "question": "Amenorrhea",
+        "answer": "The absence of menstruation. For example: amenorrhea can be caused by hormonal imbalances or pregnancy.",
+        "img_src": ""
+    },
+    
+    "1005": {
+        "id": 1005,
+        "question": "Aphasia",
+        "answer": "The loss of ability to understand or express speech. For example: aphasia can result from a stroke affecting the brain's language centers.",
+        "img_src": ""
+    },
+
+    "1006": {
+        "id": 1006,
+        "question": "Appendectomy",
+        "answer": "Surgical removal of the appendix. For example: appendectomy is the treatment for appendicitis.",
+        "img_src": ""
+    },
+    
+    "1007": {
+        "id": 1007,
+        "question": "Ascites",
+        "answer": "The accumulation of fluid in the abdominal cavity. For example: ascites can be a symptom of liver disease.",
+        "img_src": ""
+    },
+    
+    "1008": {
+        "id": 1008,
+        "question": "Ataxia",
+        "answer": "A lack of coordination in muscle movements. For example: ataxia can be a symptom of alcohol intoxication or neurological disorders.",
+        "img_src": ""
+    },
+    
+    "1009": {
+        "id": 1009,
+        "question": "Aneurysm",
+        "answer": "A bulging or ballooning of a blood vessel wall. For example: an aortic aneurysm is a bulge in the aorta.",
+        "img_src": ""
+    },
+    
+    "1010": {
+        "id": 1010,
+        "question": "Arrhythmia",
+        "answer": "An irregular heartbeat. For example: A heart beat that skips beats is a type of arrhythmia.",
+        "img_src": ""
+    },
+
+     "1011": {
+        "id": 1011,
+        "question": "Artery",
+        "answer": "A blood vessel that carries blood away from the heart. For example: the aorta is the largest artery in the body.",
+        "img_src": ""
+    },
+
+     "1012": {
+        "id": 1012,
+        "question": "Arthralgia",
+        "answer": "Pain in a joint. For example: arthritis can cause arthralgia in the knees and hips.",
+        "img_src": ""
+    },
+
+    "1013": {
+            "id": 1013,
+            "question": "Aural",
+            "answer": "Relating to the ear. For example: aural symptoms can include hearing loss or ringing in the ears.",
+            "img_src": ""
+     },
+    
+    "1014": {
+            "id": 1014,
+            "question": "Auscultation",
+            "answer": "The act of listening to internal sounds of the body, typically using a stethoscope. For example: auscultation can be used to listen to heart sounds or breath sounds.",
+            "img_src": ""
+    },
+
+    "1015": {
+        "id": 1015,
+        "question": "Axilla",
+        "answer": "Pertaining to the armpit. For example: axillary lymph nodes are located in the armpit.",
+        "img_src": ""
+    },
+
+     "1016": {
+        "id": 1016,
+        "question": "Bradycardia",
+        "answer": "A slow heart rate. For example: bradycardia can be a side effect of certain medications.",
+        "img_src": ""
+    },
+
+     "1017": {
+        "id": 1017,
+        "question": "Bruit",
+        "answer": "An abnormal sound heard during auscultation that signifies turbulent blood flow. For example: a bruit may be heard over the carotid artery during auscultation when a patient has atherosclerosis.",
+        "img_src": ""
+    },
+
+    "1018": {
+            "id": 1018,
+            "question": "Buccal",
+            "answer": "Relating to the cheek. For example: buccal mucosa is the lining of the cheek.",
+            "img_src": ""
+    },
+    
+    "1019": {
+            "id": 1019,
+            "question": "Cachectic",
+            "answer": "In a state of ill health, malnourished and weak. For example: cachectic patients may have significant weight loss and muscle wasting.",
+            "img_src": ""
+    },
+
+     "1020": {
+        "id": 1020,
+        "question": "Cardimegaly",
+        "answer": "An enlarged heart. For example: cardiomegaly can be a sign of heart disease.",
+        "img_src": ""
+    },
+
+    "1021": {
+        "id": 1021,
+        "question": "Caries",
+        "answer": "A decay of tooth structure caused by bacteria. For example: dental caries are commonly known as cavities.",
+        "img_src": ""
+    },
+
+     "1022": {
+        "id": 1022,
+        "question": "Cellulitis",
+        "answer": "An infection of the skin and underlying tissues. For example: cellulitis can occur when bacteria enter through a cut or wound in the skin.",
+        "img_src": ""
+    },
+
+     "1023": {
+        "id": 1023,
+        "question": "Cerumen",
+        "answer": "Earwax. For example: cerumen can build up in the ear canal and cause hearing difficulties.",
+        "img_src": ""
+    },
+
+    "1024": {
+            "id": 1024,
+            "question": "Cervical",
+            "answer": "Relating to the neck. For example: cervical spine refers to the bones in the neck.",
+            "img_src": ""
+        },
+    
+    "1025": {
+            "id": 1025,
+            "question": "Cholecystitis",
+            "answer": "Inflammation of the gallbladder. For example: cholecystitis can cause severe abdominal pain.",
+            "img_src": ""
+        },
+
+    "1026": {
+        "id": 1026,
+        "question": "Cornea",
+        "answer": "The clear front part of the front of the eye. For example: contact lenses are usually placed on the cornea.",
+        "img_src": ""
+    },
+
+    "1027": {
+        "id": 1027,
+        "question": "Conjunctiva",
+        "answer": "Lining of inside of the eyelid. For example: conjunctivitis is an inflammation of the conjunctiva and is often called pink eye.",
+        "img_src": ""
+    },
+    
+     "1028": {
+        "id": 1028,
+        "question": "Crepitus",
+        "answer": "A crackling or grating sound heard during auscultation. For example: crepitus can be heard in the lungs during inspiration in patients with some types of pneumonia.",
+        "img_src": ""
+    },
+
+     "1029": {
+        "id": 1029,
+        "question": "Cyanosis or Cyanotic",
+        "answer": "Bluish or dusky coloration of the skin and mucous membranes due to low oxygen levels in the blood. For example: cyanosis can be a sign of respiratory or cardiac problems.",
+        "img_src": ""
+    },
+
+     "1030": {
+        "id": 1030,
+        "question": "Debridement",
+        "answer": "The removal of dead or contaminated tissue from a wound. For example: debridement may be necessary to promote healing in chronic wounds.",
+        "img_src": ""
+    },
+    
+     "1031": {
+        "id": 1031,
+        "question": "Dentition",
+        "answer": "The process of tooth eruption and development. For example: dentition occurs in two phases: primary (baby) teeth and permanent teeth.",
+        "img_src": ""
+    },
+
+     "1032": {
+        "id": 1032,
+        "question": "Diaphoresis",
+        "answer": "Excessive sweating. For example: diaphoresis can be a symptom of fever or anxiety.",
+        "img_src": ""
+    },
+
+     "1033": {
+        "id": 1033,
+        "question": "Diplopia",
+        "answer": "Double vision. For example: diplopia can be a symptom of neurological disorders or eye muscle problems.",
+        "img_src": ""
+    },
+
+     "1034": {
+        "id": 1034,
+        "question": "Differential Diagnosis",
+        "answer": "The process of determining the nature of a disease or condition based on its signs and symptoms. For example: a differential diagnosis may be made when a patient presents with chest pain and multiple potential causes must be considered.",
+        "img_src": ""
+    },
+
+     "1035": {
+        "id": 1035,
+        "question": "Dysarthria",
+        "answer": "Difficulty speaking clearly. For example: dysarthria can be a symptom of neurological disorders or muscle weakness.",
+        "img_src": ""
+    },
+
+     "1036": {
+        "id": 1036,
+        "question": "Dysmenorrhea",
+        "answer": "Painful menstruation. For example: dysmenorrhea can be a symptom of endometriosis or uterine fibroids.",
+        "img_src": ""
+    },
+
+     "1037": {
+        "id": 1037,
+        "question": "Dysphagia",
+        "answer": "Difficulty swallowing. For example: dysphagia can be a symptom of neurological disorders or esophageal problems.",
+        "img_src": ""
+    },
+
+     "1038": {
+        "id": 1038,
+        "question": "Dyspnea",
+        "answer": "Difficulty breathing. For example: dyspnea can be a symptom of respiratory or cardiac problems.",
+        "img_src": ""
+    },
+
+     "1039": {
+        "id": 1039,
+        "question": "Dysuria",
+        "answer": "Painful or difficult urination. For example: dysuria can be a symptom of a urinary tract infection.",
+        "img_src": ""
+    },
+
+     "1040": {
+        "id": 1040,
+        "question": "Ecchymosis",
+        "answer": "A bruise or area of bleeding into the skin. For example: ecchymosis can occur after an injury that causes bruising on the skin",
+        "img_src": ""
+    },
+
+    "1041": {
+        "id": 1041,
+        "question": "Ectopic Pregnancy",
+        "answer": "A pregnancy that implants outside the uterus, usually in the fallopian tube. For example: ectopic pregnancy can be a medical emergency and requires immediate treatment.",
+        "img_src": ""
+    },
+
+     "1042": {
+        "id": 1042,
+        "question": "Edema",
+        "answer": "Swelling caused by excess fluid in the tissues. For example: edema can occur in the legs due to a deep vein thrombosis (clot) forming there.",
+        "img_src": ""
+    },
+
+     "1043": {
+        "id": 1043,
+        "question": "Effusion",
+        "answer": "The accumulation of fluid in a body cavity. For example: pleural effusion is the accumulation of fluid in the space around the lungs.",
+        "img_src": ""
+    },
+
+     "1044": {
+        "id": 1044,
+        "question": "Embolism",
+        "answer": "The presence of a blood clot or other material in the bloodstream that can cause a blockage. For example: pulmonary embolism is a type of embolism that occurs in the lungs.",
+        "img_src": ""
+    },
+
+     "1045": {
+        "id": 1045,
+        "question": "Erythema",
+        "answer": "Redness of the skin. For example: erythema can be a symptom of an allergic reaction or infection.",
+        "img_src": ""
+    },
+
+     "1046": {
+        "id": 1046,
+        "question": "Emesis",
+        "answer": "Vomiting. For example: emesis can be a symptom of gastrointestinal problems or infections.",
+        "img_src": ""
+    },
+
+    "1047": {
+        "id": 1047,
+        "question": "Euthmic",
+        "answer": "Normal or stable mood. For example: a patient may be described as euthymic if they are not experiencing significant mood swings.",
+        "img_src": ""
+    },
+
+    "1048": {
+        "id": 1048,
+        "question": "Evulsion",
+        "answer": "The forcible removal or tearing away from a part. For example: evulsion can occur due to the tearing away of a tendon from a bone.",
+        "img_src": ""
+    },
+
+    "1049": {
+        "id": 1049,
+        "question": "Febrile",
+        "answer": "Having a fever. For example: a patient may be described as febrile if they have a body temperature above the normal range.",
+        "img_src": ""
+    },
+
+    "1050": {
+        "id": 1050,
+        "question": "Fibrillation",
+        "answer": "Rapid, irregular beating of the heart. For example: atrial fibrillation is a common type of irregular heartbeat.",
+        "img_src": ""
+    },
+
+    "1051": {
+        "id": 1051,
+        "question": "Fontanel",
+        "answer": "Incomplete closure of the soft spots on a baby's head. for example: the anterior fontanel is the soft spot on the top of a baby's head that typically closes by 18-24 months of age.",
+        "img_src": ""
+    },
+
+    "1052": {
+        "id": 1052,
+        "question": "Fundus",
+        "answer": "The bottom or base of an organ. For example: the fundus of the stomach is the lower part of the stomach.",
+        "img_src": ""
+    },
+
+    "1053": {
+        "id": 1053,
+        "question": "Gastritis",
+        "answer": "Inflammation of the stomach lining. For example: gastritis can cause abdominal pain and nausea.",
+        "img_src": ""
+    },
+
+    "1054": {
+        "id": 1054,
+        "question": "Gastroenteritis",
+        "answer": "Inflammation of the lining of the stomach and intestines. For example: gastroenteritis can cause abdominal pain, diarrhea, and vomiting.",
+        "img_src": ""
+    },
+
+    "1055": {
+        "id": 1055,
+        "question": "Gravid",
+        "answer": "Pregnant. For example: a woman who is pregnant may be described as gravida.",
+        "img_src": ""
+    },
+
+    "1056": {
+        "id": 1056,
+        "question": "Hematemesis",
+        "answer": "Vomiting of blood. For example: hematemesis can be a symptom of gastrointestinal bleeding.",
+        "img_src": ""
+    },
+
+    "1057": {
+        "id": 1057,
+        "question": "Hematuria",
+        "answer": "The presence of blood in the urine. For example: hematuria can be a symptom of a urinary tract infection or kidney stones.",
+        "img_src": ""
+    },
+
+    "1058": {
+        "id": 1058,
+        "question": "Hematoma",
+        "answer": "A collection of blood outside of a blood vessel, often due to injury. For example: a hematoma can occur after a blow to the head or other trauma.",
+        "img_src": ""
+    },
+
+    "1059": {
+        "id": 1059,
+        "question": "Hemoptysis",
+        "answer": "Coughing up blood from the respiratory tract. For example: hemoptysis can be a symptom of pneumonia or lung cancer.",
+        "img_src": ""
+    },
+
+    "1060": {
+        "id": 1060,
+        "question": "Hemorrhage",
+        "answer": "The escape of blood from a blood vessel. For example: hemorrhage can occur due to injury or tearing of the femoral artery.",
+        "img_src": ""
+    },
+
+    "1061": {
+        "id": 1061,
+        "question": "Hemorrhoids",
+        "answer": "Swollen veins in the rectum or around the anus. For example: hemorrhoids can cause pain and bleeding during bowel movements.",
+        "img_src": ""
+    },
+
+     "1062": {
+        "id": 1062,
+        "question": "Hepatomegaly",
+        "answer": "Enlargement of the liver. For example: hepatomegaly can be a sign of liver disease or other medical conditions.",
+        "img_src": ""
+    },
+
+     "1063": {
+        "id": 1063,
+        "question": "Hypertension",
+        "answer": "High blood pressure. For example: hypertension can increase the risk of heart disease and stroke.",
+        "img_src": ""
+    },
+
+     "1064": {
+        "id": 1064,
+        "question": "Hypotension",
+        "answer": "Low blood pressure. For example: hypotension can cause dizziness and fainting.",
+        "img_src": ""
+    },
+
+     "1065": {
+        "id": 1065,
+        "question": "Hypovolemia",
+        "answer": "A decrease in the volume of blood in the body. For example: hypovolemia can cause low blood pressure and dizziness.",
+        "img_src": ""
+    },
+
+     "1066": {
+        "id": 1066,
+        "question": "Infarct or Infarction",
+        "answer": "Necrotic area of tissue following a lack of blood supply. For example: an infarct can occur in the heart muscle during a heart attack.",
+        "img_src": ""
+    },
+
+     "1067": {
+        "id": 1067,
+        "question": "Inguinal",
+        "answer": "Pertaining to the groin region. For example: an inguinal hernia occurs in the groin area.",
+        "img_src": ""
+    },
+
+     "1068": {
+        "id": 1068,
+        "question": "Ischemia",
+        "answer": "A lack of blood supply to an organ or tissue. For example: ischemia can occur in the heart during a heart attack.",
+        "img_src": ""
+    },
+
+     "1069": {
+        "id": 1069,
+        "question": "Kyphotic",
+        "answer": "Excessive outward curvature of the spine. For example: kyphotic posture can be caused by poor sitting habits or certain medical conditions.",
+        "img_src": ""
+    },
+
+     "1070": {
+        "id": 1070,
+        "question": "Ligament",
+        "answer": "A band of fibrous tissue that connects bones or cartilage. For example: the anterior cruciate ligament (ACL) helps stabilize the knee joint.",
+        "img_src": ""
+    },
+
+     "1071": {
+        "id": 1071,
+        "question": "Lingual",
+        "answer": "Pertaining to the tongue. For example: lingual frenulum is the fold of tissue that connects the underside of the tongue to the floor of the mouth.",
+        "img_src": ""
+    },
+
+     "1072": {
+        "id": 1072,
+        "question": "Lithiasis",
+        "answer": "The formation of stones in the body. For example: kidney stones are a type of lithiasis.",
+        "img_src": ""
+    },
+
+     "1073": {
+        "id": 1073,
+        "question": "Lordosis",
+        "answer": "Excessive inward curvature of the spine. For example: lordosis can cause back pain and posture problems.",
+        "img_src": ""
+    },
+
+     "1074": {
+        "id": 1074,
+        "question": "Lymphadenopathy",
+        "answer": "Enlargement of the lymph nodes. For example: lymphadenopathy can be a sign of infection or other medical conditions.",
+        "img_src": ""
+    },
+
+    "1075": {
+        "id": 1075,
+        "question": "Macule",
+        "answer": "A small, flat, discolored area on the skin. For example: a macule can be a sign of a rash or other skin condition.",
+        "img_src": ""
+    },
+
+    "1076": {
+        "id": 1076,
+        "question": "Malaise",
+        "answer": "A general feeling of discomfort, uneasiness, or illness. For example: malaise is a very common symptom of the flu.",
+        "img_src": ""
+    },
+
+    "1077": {
+        "id": 1077,
+        "question": "Malleolus",
+        "answer": "The bony prominence on either side of the ankle joint. For example: the medial malleolus is the bony projection on the inner side of the ankle.",
+        "img_src": ""
+    },
+
+    "1078": {
+        "id": 1078,
+        "question": "Mastectomy",
+        "answer": "Surgical removal of the breast. For example: a Mastectomy may be performed to remove the entire breast in a patient who has severe breast cancer.",
+        "img_src": ""
+    },
+
+    "1079": {
+        "id": 1079,
+        "question": "Melena",
+        "answer": "The presence of blood in the stool, typically indicating bleeding in the upper gastrointestinal tract. For example: melena can be a symptom of a peptic ulcer or other digestive issues.",
+        "img_src": ""
+    },
+
+    "1080": {
+        "id": 1080,
+        "question": "Metastasis",
+        "answer": "The spread of cancer from its original site to other parts of the body. For example: metastasis can occur when cancer cells travel through the bloodstream or lymphatic system.",
+        "img_src": ""
+    },
+
+    "1081": {
+        "id": 1081,
+        "question": "Myalgia",
+        "answer": "Pain in the muscles. For example: myalgia can be a symptom of influenza or other viral infections.",
+        "img_src": ""
+    },
+
+    "1082": {
+        "id": 1082,
+        "question": "Nares",
+        "answer": "The nostrils or openings of the nose. For example: the nares are the entry points for air to enter the respiratory system.",
+        "img_src": ""
+    },
+
+    "1083": {
+        "id": 1083,
+        "question": "Nystagmus",
+        "answer": "Rapid, involuntary movement of the eyes. For example: nystagmus can be a symptom of certain neurological conditions.",
+        "img_src": ""
+    },
+
+    "1084": {
+        "id": 1084,
+        "question": "Occiput",
+        "answer": "The back part of the skull. For example: the occiput is the bony projection at the back of the head.",
+        "img_src": ""
+    },
+
+    "1085": {
+        "id": 1085,
+        "question": "Palpable",
+        "answer": "Able to be touched or felt. For example: a palpable mass is one that can be felt through the skin.",
+        "img_src": ""
+    },
+
+    "1086": {
+        "id": 1086,
+        "question": "Phalanx",
+        "answer": "Any of the bones in the fingers or toes. For example: the phalanges are the small bones that make up the digits.",
+        "img_src": ""
+    },
+
+    "1087": {
+        "id": 1087,
+        "question": "Paresthesias",
+        "answer": "Abnormal sensations, such as tingling or numbness. For example: paresthesias can be a symptom of nerve damage or certain medical conditions.",
+        "img_src": ""
+    },
+
+    "1088": {
+        "id": 1088,
+        "question": "Pharyngitis",
+        "answer": "Inflammation of the pharynx. For example: pharyngitis can be a symptom of a viral or bacterial infection of the respiratory tract.",
+        "img_src": ""
+    },
+
+    "1089": {
+        "id": 1089,
+        "question": "Photophobia",
+        "answer": "Intolerance to light. For example: The patient was not able to tolerate it when the lights were on.",
+        "img_src": ""
+    },
+
+    "1090": {
+        "id": 1090,
+        "question": "Pleural Effusion",
+        "answer": "Inflammation of the lungs. For example: pneumonia can be caused by bacteria, viruses, or other pathogens.",
+        "img_src": ""
+    },
+
+    "1091": {
+        "id": 1091,
+        "question": "Pleural Rub",
+        "answer": "A friction sound heard on auscultation of the chest. For example: a pleural rub can be a sign of pleural inflammation.",
+        "img_src": ""
+    },
+
+    "1092": {
+        "id": 1092,
+        "question": "Pneumothorax",
+        "answer": "The presence of air in the pleural cavity. For example: a pneumothorax can occur due to trauma or certain medical conditions.",
+        "img_src": ""
+    },
+
+    "1093": {
+        "id": 1093,
+        "question": "Polydipsia",
+        "answer": "Excessive thirst. For example: polydipsia can be a symptom of diabetes or other medical conditions.",
+        "img_src": ""
+    },
+
+    "1094": {
+        "id": 1094,
+        "question": "Polyuria",
+        "answer": "Excessive urination. For example: polyuria can be a symptom of diabetes or other medical conditions.",
+        "img_src": ""
+    },
+
+    "1095": {
+        "id": 1095,
+        "question": "Post-prandial",
+        "answer": "After eating. For example: post-prandial symptoms can occur after meals.",
+        "img_src": ""
+    },
+
+    "1096": {
+        "id": 1096,
+        "question": "Rale",
+        "answer": "An abnormal rattling sound heard on auscultation of the chest. For example: rales can be a sign of fluid in the lungs.",
+        "img_src": ""
+    },
+
+    "1097": {
+        "id": 1097,
+        "question": "Renal",
+        "answer": "Relating to the kidneys. For example: renal disease can affect kidney function.",
+        "img_src": ""
+    },
+
+    "1098": {
+        "id": 1098,
+        "question": "Rhinorrhea",
+        "answer": "Runny nose. For example: rhinorrhea is a common symptom of the common cold.",
+        "img_src": ""
+    },
+
+    "1099": {
+        "id": 1099,
+        "question": "Sciatic",
+        "answer": "Relating to the sciatic nerve. For example: sciatica can cause pain that radiates from the lower back down the leg.",
+        "img_src": ""
+    },
+
+    "1100": {
+        "id": 1100,
+        "question": "Sclera",
+        "answer": "The white part of the eye. For example: the sclera is the tough, outer layer of the eye.",
+        "img_src": ""
+    },
+
+    "1101": {
+        "id": 1101,
+        "question": "Sputum",
+        "answer": "Mucus or other material coughed up from the respiratory tract. For example: sputum can be a symptom of various respiratory conditions.",
+        "img_src": ""
+    },
+
+    "1102": {
+        "id": 1102,
+        "question": "Sepsis",
+        "answer": "Presence of pathological microorganisms or their toxins in the blood For example: sepsis can be caused by bacterial, viral, or fungal infections in the blood.",
+        "img_src": ""
+    },
+
+    "1103": {
+        "id": 1103,
+        "question": "Stenosis",
+        "answer": "Narrowing or constriction of a passage or opening in the body. For example: aortic stenosis is a condition where the aortic valve becomes narrowed.",
+        "img_src": ""
+    },
+
+    "1104": {
+        "id": 1104,
+        "question": "Serous",
+        "answer": "Relating to a clear, watery fluid. For example: serous fluid is a normal component of the pleural cavity.",
+        "img_src": ""
+    },
+
+    "1105": {
+        "id": 1105,
+        "question": "Stridor",
+        "answer": "A high-pitched sound heard during breathing. For example: stridor can be a sign of airway obstruction.",
+        "img_src": ""
+    },
+
+    "1106": {
+        "id": 1106,
+        "question": "Syncope",
+        "answer": "Dizzy, lightheaded, nauseous, and maybe even passing out or feinting.  For example: syncope can be caused by dehydration, standing up quickly, or certain medical conditions.",
+        "img_src": ""
+    },
+
+    "1107": {
+        "id": 1107,
+        "question": "Tachycardia",
+        "answer": "An abnormally fast heart rate. For example: tachycardia can be a symptom of various medical conditions or a response to exercise or stress.",
+        "img_src": ""
+    },
+
+    "1108": {
+        "id": 1108,
+        "question": "Tachypnea",
+        "answer": "An abnormally fast breathing rate. For example: tachypnea can be a symptom of various medical conditions or a response to exercise or stress.",
+        "img_src": ""
+    },
+
+    "1109": {
+        "id": 1109,
+        "question": "Tinnitus",
+        "answer": "A ringing, buzzing, or hissing sound in the ears. For example: tinnitus may occur after being exposed to a loud noise or explosion.",
+        "img_src": ""
+    },
+
+    "1110": {
+        "id": 1110,
+        "question": "Turgor",
+        "answer": "The ability of tissues to resume their normal shape after being compressed. For example: skin turgor is a sign of hydration status.",
+        "img_src": ""
+    },
+
+    "1111": {
+        "id": 1111,
+        "question": "Urticaria",
+        "answer": "A skin condition characterized by raised, itchy welts. Also means hives.For example: urticaria can be caused by an allergic reaction.",
+        "img_src": ""
+    },
+
+    "1112": {
+        "id": 1112,
+        "question": "Vein",
+        "answer": "A blood vessel that carries blood toward the heart. For example: veins are responsible for returning deoxygenated blood from the body back to the heart.",
+        "img_src": ""
+    },
+
+     "1113": {
+        "id": 1113,
+        "question": "Vertigo",
+        "answer": "A sensation of spinning or dizziness. For example: vertigo can be caused by inner ear problems or certain medical conditions.",
+        "img_src": ""
+    },
+
+     "1114": {
+        "id": 1114,
+        "question": "Vesicle",
+        "answer": "A small blister or sac filled with fluid on the skin. For example: vesicles can be a symptom of various skin conditions or allergic reactions.",
+        "img_src": ""
+    },
+
+     "1115": {
+        "id": 1115,
+        "question": "Wheeze",
+        "answer": "A high-pitched sound heard during breathing. For example: wheeze can be a sign of airway obstruction.",
+        "img_src": ""
+    }
+        
+}

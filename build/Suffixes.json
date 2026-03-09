@@ -1,0 +1,128 @@
+{
+    "1000": {
+        "id": 1000,
+        "question": "-algia",
+        "answer": "-algia means pain. For example, neuralgia means nerve pain.",
+        "img_src": ""
+    },
+     "1001": {
+        "id": 1001,
+        "question": "-emia",
+        "answer": "emia means blood condition. For example, anemia means lack of blood or lack or red blood cells.",
+        "img_src": ""
+    },
+     "1002": {
+        "id": 1002,
+        "question": "-itis.",
+        "answer": "-itis means inflammation. For example, arthritis means joint inflammation.",
+        "img_src": ""
+    },
+     "1003": {
+        "id": 1003,
+        "question": "-ectomy means surgical removal.",
+        "answer": "-ectomy means surgical removal. For example, appendectomy means removal of the appendix.",
+        "img_src": ""
+    },
+     "1004": {
+        "id": 1004,
+        "question": "-trophy",
+        "answer": "-trophy means growth or development. For example, hypertrophy means excessive growth.",
+        "img_src": ""
+    },
+     "1005": {
+        "id": 1005,
+        "question": "-pathy",
+        "answer": "-pathy means disease or condition. For example, neuropathy means nerve disease.",
+        "img_src": ""
+    },
+     "1006": {
+        "id": 1006,
+        "question": "-uria",
+        "answer": "uria means urine condition. For example, hematuria means blood in the urine.",
+        "img_src": ""
+    },
+     "1007": {
+        "id": 1007,
+        "question": "-stenosis",
+        "answer": "-stenosis means narrowing or constriction. For example, aortic stenosis means narrowing of the aortic valve.",
+        "img_src": ""
+    },
+     "1008": {
+        "id": 1008,
+        "question": "-malacia",
+        "answer": "-malacia means softening. For example, chondromalacia means softening of cartilage.",
+        "img_src": ""
+    },
+    "1009": {
+        "id": 1009,
+        "question": "-pnea",
+        "answer": "-pnea means breathing condition. For example, apnea means absence of breathing.",
+        "img_src": ""
+    },
+     "1010": {
+        "id": 1010,
+        "question": "-ptosis",
+        "answer": "-ptosis means drooping or falling down. For example, blepharoptosis means drooping of the eyelid.",
+        "img_src": ""
+    },
+     "1011": {
+        "id": 1011,
+        "question": "-cele",
+        "answer": "-cele means a fluid filled sac or hernia. For example, a hydrocele is a fluid filled sac particulrly found on the testicle",
+        "img_src": ""
+    }, 
+    "1012": {
+        "id": 1012,
+        "question": "-rrhea",
+        "answer": "-rrhea means excessive discharge or flow. For example, rhinorrhea means excessive mucus discharge from the nose.",
+        "img_src": ""
+    }, 
+    "1013": {
+        "id": 1013,
+        "question": "-osis",
+        "answer": "-osis means abnormal condition or disease. For example, osteoporosis means abnormal bone condition.",
+        "img_src": ""
+    }, 
+    "1014": {
+        "id": 1014,
+        "question": "-megaly",
+        "answer": "-megaly means enlargement. For example, cardiomegaly means heart enlargement.",
+        "img_src": ""
+    }, 
+    "1015": {
+        "id": 1015,
+        "question": "-oid",
+        "answer": "-oid means resembling or having the appearance of something. For example, arachnoid refers to a membrane that resembles a spiders web",
+        "img_src": ""
+    }, 
+    "1016": {
+        "id": 1016,
+        "question": "-edema",
+        "answer": "-edema means swelling or fluid retention. For example, lymphedema means swelling due to lymphatic fluid retention.",
+        "img_src": ""
+    }, 
+    "1017": {
+        "id": 1017,
+        "question": "-phagia",
+        "answer": "-phagia means eating or swallowing. For example, polyphagia means excessive eating.",
+        "img_src": ""
+    }, 
+    "1018": {
+        "id": 1018,
+        "question": "-phasia",
+        "answer": "-phasia means speech or language. For example, aphasia means loss of ability to speak or understand speech.",
+        "img_src": ""
+    }, 
+    "1019": {
+        "id": 1019,
+        "question": "-taxia",
+        "answer": "-taxia means coordination or control of movement. For example, ataxia means lack of coordination.",
+        "img_src": ""
+    }, 
+    "1020": {
+        "id": 1020,
+        "question": "-esthesia",
+        "answer": "-esthesia means sensation or feeling. For example, anesthesia means absence of sensation.",
+        "img_src": ""
+    }
+}
